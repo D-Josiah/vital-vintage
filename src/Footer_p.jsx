@@ -5,7 +5,8 @@ function Footer_p() {
 
   return (
     <>
-      
+      <h1>this is the footer</h1>  
+    
     </>
   )
 }
