@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './scss/style.css'
 
-function Footer_p() {
+function Footer() {
 
   return (
     <>
@@ -11,4 +11,4 @@ function Footer_p() {
   )
 }
 
-export default Footer_p
+export default Footer;
